@@ -1,0 +1,1519 @@
+/* Purple Skin Color CSS */
+
+.purple .single_latest_post h6:hover,
+.purple .download_app_text > a,
+.purple .footer_bottom a,
+.purple .single_price_plan .price,
+.purple .footer_social_area a,
+.purple .section_heading > h3 > span,
+.purple.default-version .mainmenu ul#nav li:hover a,
+.purple.boxed_version .mainmenu ul#nav li:hover a,
+.purple.rtl_version .mainmenu ul#nav li:hover a .sticky .mainmenu ul#nav li.active a,
+.purple .sticky .mainmenu ul#nav li:hover a,
+.purple .sticky .mainmenu ul#nav li a:hover,
+.purple .sticky .mainmenu ul#nav li.current_page_item a,
+.purple.default-version .mainmenu ul#nav li a:hover,
+.purple.default-version .mainmenu ul#nav li.current_page_item a,
+.purple.boxed_version .mainmenu ul#nav li a:hover,
+.purple.boxed_version .mainmenu ul#nav li.current_page_item a,
+.purple .mainmenu ul#nav > li ul.sub-menu li a:hover,
+.purple .welcome_text_area h3.price,
+.purple .welcome_text_area a:hover,
+.purple .welcome_text_area a:focus,
+.purple .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.purple .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.purple .single_benifits.active .icon_box,
+.purple .single_benifits.active h3,
+.purple .about_us_text_area > a:hover,
+.purple .total_subscriber_text > h3 span.counter,
+.purple .single_work_step > i,
+.purple .single_price_plan .button > a,
+.purple .single_advisor_details_info > h5,
+.purple .advisor_social_link > a,
+.purple .testimonial_text > p:before,
+.purple .testimonial_text > p:after,
+.purple .single_latest_news_text_area .news_title h4,
+.purple .single_latest_news_area:hover .single_latest_news_text_area .news_title h4,
+.purple .single_latest_news_area .author > i,
+.purple .single_latest_news_area .date > i,
+.purple .learn_more_button > a:hover,
+.purple .learn_more_button > a:focus,
+.purple .footer_menu a:hover,
+.purple .single_footer_area a:hover,
+.purple .footer_bottom p i,
+.purple .breadcrumb li > a,
+.purple .breadcrumb li > a:hover,
+.purple .page_title > h3,
+.purple .singl-blog-top-bg-area p,
+.purple .singl-blog-top-bg-area p a,
+.purple .singl-blog-title h4,
+.purple .singl-blog-status-bar span i,
+.purple .blog-share button.like i,
+.purple .social-links a:hover,
+.purple .search_post > h5,
+.purple .event_location > h5,
+.purple .latest_post > h5,
+.purple .catagory_section > h5,
+.purple .tag_section > h5,
+.purple .achive_section > h5,
+.purple .achive_section ul li > a:hover,
+.purple .catagory_section ul li > a:hover,
+.purple .latest_post .single_latest_post > a > h5,
+.purple .latest_post .single_latest_post > a > h5:hover,
+.purple .find_answer_area > a {
+    color: #673AB7;
+}
+
+.purple #scrollUp,
+.purple .header_signup_in_btn a,
+.purple .welcome_text_area a,
+.purple .single_about_part .feature_icon,
+.purple .single_about_part .feature_icon:before,
+.purple .single_about_part .feature_icon:after,
+.purple .about_us_text_area > a,
+.purple .total_subscriber_text > a:hover,
+.purple .single_price_plan .button > a,
+.purple .single_price_plan .button > a:hover,
+.purple .single_price_plan .button > a:focus,
+.purple .advisor_social_link > a:hover,
+.purple .app_screenshots .owl-prev:hover,
+.purple .app_screenshots .owl-next:hover,
+.purple .testimonial_area .owl-dot.active,
+.purple .newsletter-form-area button,
+.purple .single-accordion h5 a,
+.purple .find_answer_area,
+.purple .single_timeline_block .timeline_icon,
+.purple .timeline_text_content:hover:after,
+.purple .download_app_area,
+.purple .learn_more_button > a,
+.purple .footer_social_area a:hover,
+.purple .blog-tag button,
+.purple .social-links li > a,
+.purple .single_gallery_item:before,
+.purple .single_gallery_item:after,
+.purple .sg_hover_effects:before,
+.purple .sg_hover_effects:after,
+.purple .contact_input_area button:hover,
+.purple .tag_section ul > li > a:hover,
+.purple .onepage_single_demo > a:hover,
+.purple .single_about_part:hover {
+    background-color: #673AB7;
+}
+
+.purple .app_screenshots .owl-item.center .single_screenshot,
+.purple .app_screenshots .owl-prev:hover,
+.purple .app_screenshots .owl-next:hover,
+.purple .learn_more_button > a,
+.purple .learn_more_button > a:hover,
+.purple .learn_more_button > a:focus,
+.purple .footer_social_area a:hover,
+.purple .singl-blog-status-bar,
+.purple .social-links li > a,
+.purple .social-links a:hover,
+.purple .contact_input_area .form-group input:focus,
+.purple .contact_input_area .form-group textarea:focus,
+.purple .contact_input_area button:hover,
+.purple .mainmenu ul#nav > li > ul.sub-menu,
+.purple .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.purple .welcome_slider .welcome_slides .owl-nav .owl-next:hover {
+    border-color: #673AB7;
+}
+
+.purple .welcome_style_one {
+    background-color: rgba(103, 58, 183, 0.1);
+}
+
+.purple .welcome_style_two {
+    background-color: rgba(103, 58, 183, 0.2);
+}
+
+.purple .welcome_style_three {
+    background-color: rgba(103, 58, 183, 0.15);
+}
+
+.purple .welcome_style_four {
+    background-color: rgba(103, 58, 183, 0.12);
+}
+
+.purple .about_us_text_area > a:hover,
+.purple .welcome_text_area a:hover,
+.purple .welcome_text_area a:focus {
+    background-color: #fff;
+}
+
+.purple .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.purple .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.purple .footer_social_area a:hover,
+.purple .advisor_social_link > a:hover,
+.purple .single_price_plan .button > a,
+.purple .single_price_plan .button > a:hover,
+.purple .single_price_plan .button > a:focus {
+    color: #fff;
+}
+
+.purple .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.purple .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.purple .timeline_text_content:hover,
+.purple .single_about_part:hover {
+    background-color: #673AB7 !important;
+}
+
+.purple .video_area:before {
+    background: #673AB7;
+}
+
+.purple .single-accordion h5 a.collapsed {
+    background-color: #fff;
+}
+
+
+/* green Skin Color CSS */
+
+.green .single_latest_post h6:hover,
+.green .download_app_text > a,
+.green .footer_bottom a,
+.green .single_price_plan .price,
+.green .footer_social_area a,
+.green .section_heading > h3 > span,
+.green.default-version .mainmenu ul#nav li:hover a,
+.green.boxed_version .mainmenu ul#nav li:hover a,
+.green.rtl_version .mainmenu ul#nav li:hover a .sticky .mainmenu ul#nav li.active a,
+.green .sticky .mainmenu ul#nav li:hover a,
+.green .sticky .mainmenu ul#nav li a:hover,
+.green .sticky .mainmenu ul#nav li.current_page_item a,
+.green.default-version .mainmenu ul#nav li a:hover,
+.green.default-version .mainmenu ul#nav li.current_page_item a,
+.green.boxed_version .mainmenu ul#nav li a:hover,
+.green.boxed_version .mainmenu ul#nav li.current_page_item a,
+.green .mainmenu ul#nav > li ul.sub-menu li a:hover,
+.green .welcome_text_area h3.price,
+.green .welcome_text_area a:hover,
+.green .welcome_text_area a:focus,
+.green .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.green .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.green .single_benifits.active .icon_box,
+.green .single_benifits.active h3,
+.green .about_us_text_area > a:hover,
+.green .total_subscriber_text > h3 span.counter,
+.green .single_work_step > i,
+.green .single_price_plan .button > a,
+.green .single_advisor_details_info > h5,
+.green .advisor_social_link > a,
+.green .testimonial_text > p:before,
+.green .testimonial_text > p:after,
+.green .single_latest_news_text_area .news_title h4,
+.green .single_latest_news_area:hover .single_latest_news_text_area .news_title h4,
+.green .single_latest_news_area .author > i,
+.green .single_latest_news_area .date > i,
+.green .learn_more_button > a:hover,
+.green .learn_more_button > a:focus,
+.green .footer_menu a:hover,
+.green .single_footer_area a:hover,
+.green .footer_bottom p i,
+.green .breadcrumb li > a,
+.green .breadcrumb li > a:hover,
+.green .page_title > h3,
+.green .singl-blog-top-bg-area p,
+.green .singl-blog-top-bg-area p a,
+.green .singl-blog-title h4,
+.green .singl-blog-status-bar span i,
+.green .blog-share button.like i,
+.green .social-links a:hover,
+.green .search_post > h5,
+.green .event_location > h5,
+.green .latest_post > h5,
+.green .catagory_section > h5,
+.green .tag_section > h5,
+.green .achive_section > h5,
+.green .achive_section ul li > a:hover,
+.green .catagory_section ul li > a:hover,
+.green .latest_post .single_latest_post > a > h5,
+.green .latest_post .single_latest_post > a > h5:hover,
+.green .find_answer_area > a {
+    color: #4CAF50;
+}
+
+.green #scrollUp,
+.green .header_signup_in_btn a,
+.green .welcome_text_area a,
+.green .single_about_part .feature_icon,
+.green .single_about_part .feature_icon:before,
+.green .single_about_part .feature_icon:after,
+.green .about_us_text_area > a,
+.green .total_subscriber_text > a:hover,
+.green .single_price_plan .button > a,
+.green .single_price_plan .button > a:hover,
+.green .single_price_plan .button > a:focus,
+.green .advisor_social_link > a:hover,
+.green .app_screenshots .owl-prev:hover,
+.green .app_screenshots .owl-next:hover,
+.green .testimonial_area .owl-dot.active,
+.green .newsletter-form-area button,
+.green .single-accordion h5 a,
+.green .find_answer_area,
+.green .single_timeline_block .timeline_icon,
+.green .timeline_text_content:hover:after,
+.green .download_app_area,
+.green .learn_more_button > a,
+.green .footer_social_area a:hover,
+.green .blog-tag button,
+.green .social-links li > a,
+.green .single_gallery_item:before,
+.green .single_gallery_item:after,
+.green .sg_hover_effects:before,
+.green .sg_hover_effects:after,
+.green .contact_input_area button:hover,
+.green .tag_section ul > li > a:hover,
+.green .onepage_single_demo > a:hover,
+.green .single_about_part:hover {
+    background-color: #4CAF50;
+}
+
+.green .app_screenshots .owl-item.center .single_screenshot,
+.green .app_screenshots .owl-prev:hover,
+.green .app_screenshots .owl-next:hover,
+.green .learn_more_button > a,
+.green .learn_more_button > a:hover,
+.green .learn_more_button > a:focus,
+.green .footer_social_area a:hover,
+.green .singl-blog-status-bar,
+.green .social-links li > a,
+.green .social-links a:hover,
+.green .contact_input_area .form-group input:focus,
+.green .contact_input_area .form-group textarea:focus,
+.green .contact_input_area button:hover,
+.green .mainmenu ul#nav > li > ul.sub-menu,
+.green .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.green .welcome_slider .welcome_slides .owl-nav .owl-next:hover {
+    border-color: #4CAF50;
+}
+
+.green .welcome_style_one {
+    background-color: rgba(76, 175, 80, 0.1);
+}
+
+.green .welcome_style_two {
+    background-color: rgba(76, 175, 80, 0.2);
+}
+
+.green .welcome_style_three {
+    background-color: rgba(76, 175, 80, 0.15);
+}
+
+.green .welcome_style_four {
+    background-color: rgba(76, 175, 80, 0.12);
+}
+
+.green .about_us_text_area > a:hover,
+.green .welcome_text_area a:hover,
+.green .welcome_text_area a:focus {
+    background-color: #fff;
+}
+
+.green .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.green .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.green .footer_social_area a:hover,
+.green .advisor_social_link > a:hover,
+.green .single_price_plan .button > a,
+.green .single_price_plan .button > a:hover,
+.green .single_price_plan .button > a:focus {
+    color: #fff;
+}
+
+.green .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.green .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.green .timeline_text_content:hover,
+.green .single_about_part:hover {
+    background-color: #4CAF50 !important;
+}
+
+.green .video_area:before {
+    background: #4CAF50;
+}
+
+.green .single-accordion h5 a.collapsed {
+    background-color: #fff;
+}
+
+
+/* orange Skin Color CSS */
+
+.orange .single_latest_post h6:hover,
+.orange .download_app_text > a,
+.orange .footer_bottom a,
+.orange .single_price_plan .price,
+.orange .footer_social_area a,
+.orange .section_heading > h3 > span,
+.orange.default-version .mainmenu ul#nav li:hover a,
+.orange.boxed_version .mainmenu ul#nav li:hover a,
+.orange.rtl_version .mainmenu ul#nav li:hover a .sticky .mainmenu ul#nav li.active a,
+.orange .sticky .mainmenu ul#nav li:hover a,
+.orange .sticky .mainmenu ul#nav li a:hover,
+.orange .sticky .mainmenu ul#nav li.current_page_item a,
+.orange.default-version .mainmenu ul#nav li a:hover,
+.orange.default-version .mainmenu ul#nav li.current_page_item a,
+.orange.boxed_version .mainmenu ul#nav li a:hover,
+.orange.boxed_version .mainmenu ul#nav li.current_page_item a,
+.orange .mainmenu ul#nav > li ul.sub-menu li a:hover,
+.orange .welcome_text_area h3.price,
+.orange .welcome_text_area a:hover,
+.orange .welcome_text_area a:focus,
+.orange .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.orange .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.orange .single_benifits.active .icon_box,
+.orange .single_benifits.active h3,
+.orange .about_us_text_area > a:hover,
+.orange .total_subscriber_text > h3 span.counter,
+.orange .single_work_step > i,
+.orange .single_price_plan .button > a,
+.orange .single_advisor_details_info > h5,
+.orange .advisor_social_link > a,
+.orange .testimonial_text > p:before,
+.orange .testimonial_text > p:after,
+.orange .single_latest_news_text_area .news_title h4,
+.orange .single_latest_news_area:hover .single_latest_news_text_area .news_title h4,
+.orange .single_latest_news_area .author > i,
+.orange .single_latest_news_area .date > i,
+.orange .learn_more_button > a:hover,
+.orange .learn_more_button > a:focus,
+.orange .footer_menu a:hover,
+.orange .single_footer_area a:hover,
+.orange .footer_bottom p i,
+.orange .breadcrumb li > a,
+.orange .breadcrumb li > a:hover,
+.orange .page_title > h3,
+.orange .singl-blog-top-bg-area p,
+.orange .singl-blog-top-bg-area p a,
+.orange .singl-blog-title h4,
+.orange .singl-blog-status-bar span i,
+.orange .blog-share button.like i,
+.orange .social-links a:hover,
+.orange .search_post > h5,
+.orange .event_location > h5,
+.orange .latest_post > h5,
+.orange .catagory_section > h5,
+.orange .tag_section > h5,
+.orange .achive_section > h5,
+.orange .achive_section ul li > a:hover,
+.orange .catagory_section ul li > a:hover,
+.orange .latest_post .single_latest_post > a > h5,
+.orange .latest_post .single_latest_post > a > h5:hover,
+.orange .find_answer_area > a {
+    color: #FF9800;
+}
+
+.orange #scrollUp,
+.orange .header_signup_in_btn a,
+.orange .welcome_text_area a,
+.orange .single_about_part .feature_icon,
+.orange .single_about_part .feature_icon:before,
+.orange .single_about_part .feature_icon:after,
+.orange .about_us_text_area > a,
+.orange .total_subscriber_text > a:hover,
+.orange .single_price_plan .button > a,
+.orange .single_price_plan .button > a:hover,
+.orange .single_price_plan .button > a:focus,
+.orange .advisor_social_link > a:hover,
+.orange .app_screenshots .owl-prev:hover,
+.orange .app_screenshots .owl-next:hover,
+.orange .testimonial_area .owl-dot.active,
+.orange .newsletter-form-area button,
+.orange .single-accordion h5 a,
+.orange .find_answer_area,
+.orange .single_timeline_block .timeline_icon,
+.orange .timeline_text_content:hover:after,
+.orange .download_app_area,
+.orange .learn_more_button > a,
+.orange .footer_social_area a:hover,
+.orange .blog-tag button,
+.orange .social-links li > a,
+.orange .single_gallery_item:before,
+.orange .single_gallery_item:after,
+.orange .sg_hover_effects:before,
+.orange .sg_hover_effects:after,
+.orange .contact_input_area button:hover,
+.orange .tag_section ul > li > a:hover,
+.orange .onepage_single_demo > a:hover,
+.orange .single_about_part:hover {
+    background-color: #FF9800;
+}
+
+.orange .app_screenshots .owl-item.center .single_screenshot,
+.orange .app_screenshots .owl-prev:hover,
+.orange .app_screenshots .owl-next:hover,
+.orange .learn_more_button > a,
+.orange .learn_more_button > a:hover,
+.orange .learn_more_button > a:focus,
+.orange .footer_social_area a:hover,
+.orange .singl-blog-status-bar,
+.orange .social-links li > a,
+.orange .social-links a:hover,
+.orange .contact_input_area .form-group input:focus,
+.orange .contact_input_area .form-group textarea:focus,
+.orange .contact_input_area button:hover,
+.orange .mainmenu ul#nav > li > ul.sub-menu,
+.orange .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.orange .welcome_slider .welcome_slides .owl-nav .owl-next:hover {
+    border-color: #FF9800;
+}
+
+.orange .welcome_style_one {
+    background-color: rgba(255, 152, 0, 0.1)
+}
+
+.orange .welcome_style_two {
+    background-color: rgba(255, 152, 0, 0.2)
+}
+
+.orange .welcome_style_three {
+    background-color: rgba(255, 152, 0, 0.15)
+}
+
+.orange .welcome_style_four {
+    background-color: rgba(255, 152, 0, 0.12)
+}
+
+.orange .about_us_text_area > a:hover,
+.orange .welcome_text_area a:hover,
+.orange .welcome_text_area a:focus {
+    background-color: #fff;
+}
+
+.orange .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.orange .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.orange .footer_social_area a:hover,
+.orange .advisor_social_link > a:hover,
+.orange .single_price_plan .button > a,
+.orange .single_price_plan .button > a:hover,
+.orange .single_price_plan .button > a:focus {
+    color: #fff;
+}
+
+.orange .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.orange .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.orange .timeline_text_content:hover,
+.orange .single_about_part:hover {
+    background-color: #FF9800 !important;
+}
+
+.orange .video_area:before {
+    background: #FF9800;
+}
+
+.orange .single-accordion h5 a.collapsed {
+    background-color: #fff;
+}
+
+
+/* yellow Skin Color CSS */
+
+.yellow .single_latest_post h6:hover,
+.yellow .download_app_text > a,
+.yellow .footer_bottom a,
+.yellow .single_price_plan .price,
+.yellow .footer_social_area a,
+.yellow .section_heading > h3 > span,
+.yellow.default-version .mainmenu ul#nav li:hover a,
+.yellow.boxed_version .mainmenu ul#nav li:hover a,
+.yellow.rtl_version .mainmenu ul#nav li:hover a .sticky .mainmenu ul#nav li.active a,
+.yellow .sticky .mainmenu ul#nav li:hover a,
+.yellow .sticky .mainmenu ul#nav li a:hover,
+.yellow .sticky .mainmenu ul#nav li.current_page_item a,
+.yellow.default-version .mainmenu ul#nav li a:hover,
+.yellow.default-version .mainmenu ul#nav li.current_page_item a,
+.yellow.boxed_version .mainmenu ul#nav li a:hover,
+.yellow.boxed_version .mainmenu ul#nav li.current_page_item a,
+.yellow .mainmenu ul#nav > li ul.sub-menu li a:hover,
+.yellow .welcome_text_area h3.price,
+.yellow .welcome_text_area a:hover,
+.yellow .welcome_text_area a:focus,
+.yellow .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.yellow .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.yellow .single_benifits.active .icon_box,
+.yellow .single_benifits.active h3,
+.yellow .about_us_text_area > a:hover,
+.yellow .total_subscriber_text > h3 span.counter,
+.yellow .single_work_step > i,
+.yellow .single_price_plan .button > a,
+.yellow .single_advisor_details_info > h5,
+.yellow .advisor_social_link > a,
+.yellow .testimonial_text > p:before,
+.yellow .testimonial_text > p:after,
+.yellow .single_latest_news_text_area .news_title h4,
+.yellow .single_latest_news_area:hover .single_latest_news_text_area .news_title h4,
+.yellow .single_latest_news_area .author > i,
+.yellow .single_latest_news_area .date > i,
+.yellow .learn_more_button > a:hover,
+.yellow .learn_more_button > a:focus,
+.yellow .footer_menu a:hover,
+.yellow .single_footer_area a:hover,
+.yellow .footer_bottom p i,
+.yellow .breadcrumb li > a,
+.yellow .breadcrumb li > a:hover,
+.yellow .page_title > h3,
+.yellow .singl-blog-top-bg-area p,
+.yellow .singl-blog-top-bg-area p a,
+.yellow .singl-blog-title h4,
+.yellow .singl-blog-status-bar span i,
+.yellow .blog-share button.like i,
+.yellow .social-links a:hover,
+.yellow .search_post > h5,
+.yellow .event_location > h5,
+.yellow .latest_post > h5,
+.yellow .catagory_section > h5,
+.yellow .tag_section > h5,
+.yellow .achive_section > h5,
+.yellow .achive_section ul li > a:hover,
+.yellow .catagory_section ul li > a:hover,
+.yellow .latest_post .single_latest_post > a > h5,
+.yellow .latest_post .single_latest_post > a > h5:hover,
+.yellow .find_answer_area > a {
+    color: #FFEB3B;
+}
+
+.yellow #scrollUp,
+.yellow .header_signup_in_btn a,
+.yellow .welcome_text_area a,
+.yellow .single_about_part .feature_icon,
+.yellow .single_about_part .feature_icon:before,
+.yellow .single_about_part .feature_icon:after,
+.yellow .about_us_text_area > a,
+.yellow .total_subscriber_text > a:hover,
+.yellow .single_price_plan .button > a,
+.yellow .single_price_plan .button > a:hover,
+.yellow .single_price_plan .button > a:focus,
+.yellow .advisor_social_link > a:hover,
+.yellow .app_screenshots .owl-prev:hover,
+.yellow .app_screenshots .owl-next:hover,
+.yellow .testimonial_area .owl-dot.active,
+.yellow .newsletter-form-area button,
+.yellow .single-accordion h5 a,
+.yellow .find_answer_area,
+.yellow .single_timeline_block .timeline_icon,
+.yellow .timeline_text_content:hover:after,
+.yellow .download_app_area,
+.yellow .learn_more_button > a,
+.yellow .footer_social_area a:hover,
+.yellow .blog-tag button,
+.yellow .social-links li > a,
+.yellow .single_gallery_item:before,
+.yellow .single_gallery_item:after,
+.yellow .sg_hover_effects:before,
+.yellow .sg_hover_effects:after,
+.yellow .contact_input_area button:hover,
+.yellow .tag_section ul > li > a:hover,
+.yellow .onepage_single_demo > a:hover,
+.yellow .single_about_part:hover {
+    background-color: #FFEB3B;
+}
+
+.yellow .app_screenshots .owl-item.center .single_screenshot,
+.yellow .app_screenshots .owl-prev:hover,
+.yellow .app_screenshots .owl-next:hover,
+.yellow .learn_more_button > a,
+.yellow .learn_more_button > a:hover,
+.yellow .learn_more_button > a:focus,
+.yellow .footer_social_area a:hover,
+.yellow .singl-blog-status-bar,
+.yellow .social-links li > a,
+.yellow .social-links a:hover,
+.yellow .contact_input_area .form-group input:focus,
+.yellow .contact_input_area .form-group textarea:focus,
+.yellow .contact_input_area button:hover,
+.yellow .mainmenu ul#nav > li > ul.sub-menu,
+.yellow .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.yellow .welcome_slider .welcome_slides .owl-nav .owl-next:hover {
+    border-color: #FFEB3B;
+}
+
+.yellow .welcome_style_one {
+    background-color: rgba(255, 235, 59, 0.1)
+}
+
+.yellow .welcome_style_two {
+    background-color: rgba(255, 235, 59, 0.2)
+}
+
+.yellow .welcome_style_three {
+    background-color: rgba(255, 235, 59, 0.15)
+}
+
+.yellow .welcome_style_four {
+    background-color: rgba(255, 235, 59, 0.12)
+}
+
+.yellow .about_us_text_area > a:hover,
+.yellow .welcome_text_area a:hover,
+.yellow .welcome_text_area a:focus {
+    background-color: #fff;
+}
+
+.yellow .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.yellow .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.yellow .footer_social_area a:hover,
+.yellow .advisor_social_link > a:hover,
+.yellow .single_price_plan .button > a,
+.yellow .single_price_plan .button > a:hover,
+.yellow .single_price_plan .button > a:focus {
+    color: #fff;
+}
+
+.yellow .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.yellow .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.yellow .timeline_text_content:hover,
+.yellow .single_about_part:hover {
+    background-color: #FFEB3B !important;
+}
+
+.yellow .video_area:before {
+    background: #FFEB3B;
+}
+
+.yellow .single-accordion h5 a.collapsed {
+    background-color: #fff;
+}
+
+
+/* deep-orange Skin Color CSS */
+
+.deep-orange .single_latest_post h6:hover,
+.deep-orange .download_app_text > a,
+.deep-orange .footer_bottom a,
+.deep-orange .single_price_plan .price,
+.deep-orange .footer_social_area a,
+.deep-orange .section_heading > h3 > span,
+.deep-orange.default-version .mainmenu ul#nav li:hover a,
+.deep-orange.boxed_version .mainmenu ul#nav li:hover a,
+.deep-orange.rtl_version .mainmenu ul#nav li:hover a .sticky .mainmenu ul#nav li.active a,
+.deep-orange .sticky .mainmenu ul#nav li:hover a,
+.deep-orange .sticky .mainmenu ul#nav li a:hover,
+.deep-orange .sticky .mainmenu ul#nav li.current_page_item a,
+.deep-orange.default-version .mainmenu ul#nav li a:hover,
+.deep-orange.default-version .mainmenu ul#nav li.current_page_item a,
+.deep-orange.boxed_version .mainmenu ul#nav li a:hover,
+.deep-orange.boxed_version .mainmenu ul#nav li.current_page_item a,
+.deep-orange .mainmenu ul#nav > li ul.sub-menu li a:hover,
+.deep-orange .welcome_text_area h3.price,
+.deep-orange .welcome_text_area a:hover,
+.deep-orange .welcome_text_area a:focus,
+.deep-orange .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.deep-orange .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.deep-orange .single_benifits.active .icon_box,
+.deep-orange .single_benifits.active h3,
+.deep-orange .about_us_text_area > a:hover,
+.deep-orange .total_subscriber_text > h3 span.counter,
+.deep-orange .single_work_step > i,
+.deep-orange .single_price_plan .button > a,
+.deep-orange .single_advisor_details_info > h5,
+.deep-orange .advisor_social_link > a,
+.deep-orange .testimonial_text > p:before,
+.deep-orange .testimonial_text > p:after,
+.deep-orange .single_latest_news_text_area .news_title h4,
+.deep-orange .single_latest_news_area:hover .single_latest_news_text_area .news_title h4,
+.deep-orange .single_latest_news_area .author > i,
+.deep-orange .single_latest_news_area .date > i,
+.deep-orange .learn_more_button > a:hover,
+.deep-orange .learn_more_button > a:focus,
+.deep-orange .footer_menu a:hover,
+.deep-orange .single_footer_area a:hover,
+.deep-orange .footer_bottom p i,
+.deep-orange .breadcrumb li > a,
+.deep-orange .breadcrumb li > a:hover,
+.deep-orange .page_title > h3,
+.deep-orange .singl-blog-top-bg-area p,
+.deep-orange .singl-blog-top-bg-area p a,
+.deep-orange .singl-blog-title h4,
+.deep-orange .singl-blog-status-bar span i,
+.deep-orange .blog-share button.like i,
+.deep-orange .social-links a:hover,
+.deep-orange .search_post > h5,
+.deep-orange .event_location > h5,
+.deep-orange .latest_post > h5,
+.deep-orange .catagory_section > h5,
+.deep-orange .tag_section > h5,
+.deep-orange .achive_section > h5,
+.deep-orange .achive_section ul li > a:hover,
+.deep-orange .catagory_section ul li > a:hover,
+.deep-orange .latest_post .single_latest_post > a > h5,
+.deep-orange .latest_post .single_latest_post > a > h5:hover,
+.deep-orange .find_answer_area > a {
+    color: #FF5722;
+}
+
+.deep-orange #scrollUp,
+.deep-orange .header_signup_in_btn a,
+.deep-orange .welcome_text_area a,
+.deep-orange .single_about_part .feature_icon,
+.deep-orange .single_about_part .feature_icon:before,
+.deep-orange .single_about_part .feature_icon:after,
+.deep-orange .about_us_text_area > a,
+.deep-orange .total_subscriber_text > a:hover,
+.deep-orange .single_price_plan .button > a,
+.deep-orange .single_price_plan .button > a:hover,
+.deep-orange .single_price_plan .button > a:focus,
+.deep-orange .advisor_social_link > a:hover,
+.deep-orange .app_screenshots .owl-prev:hover,
+.deep-orange .app_screenshots .owl-next:hover,
+.deep-orange .testimonial_area .owl-dot.active,
+.deep-orange .newsletter-form-area button,
+.deep-orange .single-accordion h5 a,
+.deep-orange .find_answer_area,
+.deep-orange .single_timeline_block .timeline_icon,
+.deep-orange .timeline_text_content:hover:after,
+.deep-orange .download_app_area,
+.deep-orange .learn_more_button > a,
+.deep-orange .footer_social_area a:hover,
+.deep-orange .blog-tag button,
+.deep-orange .social-links li > a,
+.deep-orange .single_gallery_item:before,
+.deep-orange .single_gallery_item:after,
+.deep-orange .sg_hover_effects:before,
+.deep-orange .sg_hover_effects:after,
+.deep-orange .contact_input_area button:hover,
+.deep-orange .tag_section ul > li > a:hover,
+.deep-orange .onepage_single_demo > a:hover,
+.deep-orange .single_about_part:hover {
+    background-color: #FF5722;
+}
+
+.deep-orange .app_screenshots .owl-item.center .single_screenshot,
+.deep-orange .app_screenshots .owl-prev:hover,
+.deep-orange .app_screenshots .owl-next:hover,
+.deep-orange .learn_more_button > a,
+.deep-orange .learn_more_button > a:hover,
+.deep-orange .learn_more_button > a:focus,
+.deep-orange .footer_social_area a:hover,
+.deep-orange .singl-blog-status-bar,
+.deep-orange .social-links li > a,
+.deep-orange .social-links a:hover,
+.deep-orange .contact_input_area .form-group input:focus,
+.deep-orange .contact_input_area .form-group textarea:focus,
+.deep-orange .contact_input_area button:hover,
+.deep-orange .mainmenu ul#nav > li > ul.sub-menu,
+.deep-orange .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.deep-orange .welcome_slider .welcome_slides .owl-nav .owl-next:hover {
+    border-color: #FF5722;
+}
+
+.deep-orange .welcome_style_one {
+    background-color: rgba(255, 87, 34, 0.1)
+}
+
+.deep-orange .welcome_style_two {
+    background-color: rgba(255, 87, 34, 0.2)
+}
+
+.deep-orange .welcome_style_three {
+    background-color: rgba(255, 87, 34, 0.15)
+}
+
+.deep-orange .welcome_style_four {
+    background-color: rgba(255, 87, 34, 0.12)
+}
+
+.deep-orange .about_us_text_area > a:hover,
+.deep-orange .welcome_text_area a:hover,
+.deep-orange .welcome_text_area a:focus {
+    background-color: #fff;
+}
+
+.deep-orange .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.deep-orange .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.deep-orange .footer_social_area a:hover,
+.deep-orange .advisor_social_link > a:hover,
+.deep-orange .single_price_plan .button > a,
+.deep-orange .single_price_plan .button > a:hover,
+.deep-orange .single_price_plan .button > a:focus {
+    color: #fff;
+}
+
+.deep-orange .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.deep-orange .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.deep-orange .timeline_text_content:hover,
+.deep-orange .single_about_part:hover {
+    background-color: #FF5722 !important;
+}
+
+.deep-orange .video_area:before {
+    background: #FF5722;
+}
+
+.deep-orange .single-accordion h5 a.collapsed {
+    background-color: #fff;
+}
+
+
+/* red Skin Color CSS */
+
+.red .single_latest_post h6:hover,
+.red .download_app_text > a,
+.red .footer_bottom a,
+.red .single_price_plan .price,
+.red .footer_social_area a,
+.red .section_heading > h3 > span,
+.red.default-version .mainmenu ul#nav li:hover a,
+.red.boxed_version .mainmenu ul#nav li:hover a,
+.red.rtl_version .mainmenu ul#nav li:hover a .sticky .mainmenu ul#nav li.active a,
+.red .sticky .mainmenu ul#nav li:hover a,
+.red .sticky .mainmenu ul#nav li a:hover,
+.red .sticky .mainmenu ul#nav li.current_page_item a,
+.red.default-version .mainmenu ul#nav li a:hover,
+.red.default-version .mainmenu ul#nav li.current_page_item a,
+.red.boxed_version .mainmenu ul#nav li a:hover,
+.red.boxed_version .mainmenu ul#nav li.current_page_item a,
+.red .mainmenu ul#nav > li ul.sub-menu li a:hover,
+.red .welcome_text_area h3.price,
+.red .welcome_text_area a:hover,
+.red .welcome_text_area a:focus,
+.red .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.red .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.red .single_benifits.active .icon_box,
+.red .single_benifits.active h3,
+.red .about_us_text_area > a:hover,
+.red .total_subscriber_text > h3 span.counter,
+.red .single_work_step > i,
+.red .single_price_plan .button > a,
+.red .single_advisor_details_info > h5,
+.red .advisor_social_link > a,
+.red .testimonial_text > p:before,
+.red .testimonial_text > p:after,
+.red .single_latest_news_text_area .news_title h4,
+.red .single_latest_news_area:hover .single_latest_news_text_area .news_title h4,
+.red .single_latest_news_area .author > i,
+.red .single_latest_news_area .date > i,
+.red .learn_more_button > a:hover,
+.red .learn_more_button > a:focus,
+.red .footer_menu a:hover,
+.red .single_footer_area a:hover,
+.red .footer_bottom p i,
+.red .breadcrumb li > a,
+.red .breadcrumb li > a:hover,
+.red .page_title > h3,
+.red .singl-blog-top-bg-area p,
+.red .singl-blog-top-bg-area p a,
+.red .singl-blog-title h4,
+.red .singl-blog-status-bar span i,
+.red .blog-share button.like i,
+.red .social-links a:hover,
+.red .search_post > h5,
+.red .event_location > h5,
+.red .latest_post > h5,
+.red .catagory_section > h5,
+.red .tag_section > h5,
+.red .achive_section > h5,
+.red .achive_section ul li > a:hover,
+.red .catagory_section ul li > a:hover,
+.red .latest_post .single_latest_post > a > h5,
+.red .latest_post .single_latest_post > a > h5:hover,
+.red .find_answer_area > a {
+    color: #F44336;
+}
+
+.red #scrollUp,
+.red .header_signup_in_btn a,
+.red .welcome_text_area a,
+.red .single_about_part .feature_icon,
+.red .single_about_part .feature_icon:before,
+.red .single_about_part .feature_icon:after,
+.red .about_us_text_area > a,
+.red .total_subscriber_text > a:hover,
+.red .single_price_plan .button > a,
+.red .single_price_plan .button > a:hover,
+.red .single_price_plan .button > a:focus,
+.red .advisor_social_link > a:hover,
+.red .app_screenshots .owl-prev:hover,
+.red .app_screenshots .owl-next:hover,
+.red .testimonial_area .owl-dot.active,
+.red .newsletter-form-area button,
+.red .single-accordion h5 a,
+.red .find_answer_area,
+.red .single_timeline_block .timeline_icon,
+.red .timeline_text_content:hover:after,
+.red .download_app_area,
+.red .learn_more_button > a,
+.red .footer_social_area a:hover,
+.red .blog-tag button,
+.red .social-links li > a,
+.red .single_gallery_item:before,
+.red .single_gallery_item:after,
+.red .sg_hover_effects:before,
+.red .sg_hover_effects:after,
+.red .contact_input_area button:hover,
+.red .tag_section ul > li > a:hover,
+.red .onepage_single_demo > a:hover,
+.red .single_about_part:hover {
+    background-color: #F44336;
+}
+
+.red .app_screenshots .owl-item.center .single_screenshot,
+.red .app_screenshots .owl-prev:hover,
+.red .app_screenshots .owl-next:hover,
+.red .learn_more_button > a,
+.red .learn_more_button > a:hover,
+.red .learn_more_button > a:focus,
+.red .footer_social_area a:hover,
+.red .singl-blog-status-bar,
+.red .social-links li > a,
+.red .social-links a:hover,
+.red .contact_input_area .form-group input:focus,
+.red .contact_input_area .form-group textarea:focus,
+.red .contact_input_area button:hover,
+.red .mainmenu ul#nav > li > ul.sub-menu,
+.red .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.red .welcome_slider .welcome_slides .owl-nav .owl-next:hover {
+    border-color: #F44336;
+}
+
+.red .welcome_style_one {
+    background-color: rgba(244, 67, 54, 0.1)
+}
+
+.red .welcome_style_two {
+    background-color: rgba(244, 67, 54, 0.2)
+}
+
+.red .welcome_style_three {
+    background-color: rgba(244, 67, 54, 0.15)
+}
+
+.red .welcome_style_four {
+    background-color: rgba(244, 67, 54, 0.12)
+}
+
+.red .about_us_text_area > a:hover,
+.red .welcome_text_area a:hover,
+.red .welcome_text_area a:focus {
+    background-color: #fff;
+}
+
+.red .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.red .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.red .footer_social_area a:hover,
+.red .advisor_social_link > a:hover,
+.red .single_price_plan .button > a,
+.red .single_price_plan .button > a:hover,
+.red .single_price_plan .button > a:focus {
+    color: #fff;
+}
+
+.red .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.red .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.red .timeline_text_content:hover,
+.red .single_about_part:hover {
+    background-color: #F44336 !important;
+}
+
+.red .video_area:before {
+    background: #F44336;
+}
+
+.red .single-accordion h5 a.collapsed {
+    background-color: #fff;
+}
+
+
+/* cyan Skin Color CSS */
+
+.cyan .single_latest_post h6:hover,
+.cyan .download_app_text > a,
+.cyan .footer_bottom a,
+.cyan .single_price_plan .price,
+.cyan .footer_social_area a,
+.cyan .section_heading > h3 > span,
+.cyan.default-version .mainmenu ul#nav li:hover a,
+.cyan.boxed_version .mainmenu ul#nav li:hover a,
+.cyan.rtl_version .mainmenu ul#nav li:hover a .sticky .mainmenu ul#nav li.active a,
+.cyan .sticky .mainmenu ul#nav li:hover a,
+.cyan .sticky .mainmenu ul#nav li a:hover,
+.cyan .sticky .mainmenu ul#nav li.current_page_item a,
+.cyan.default-version .mainmenu ul#nav li a:hover,
+.cyan.default-version .mainmenu ul#nav li.current_page_item a,
+.cyan.boxed_version .mainmenu ul#nav li a:hover,
+.cyan.boxed_version .mainmenu ul#nav li.current_page_item a,
+.cyan .mainmenu ul#nav > li ul.sub-menu li a:hover,
+.cyan .welcome_text_area h3.price,
+.cyan .welcome_text_area a:hover,
+.cyan .welcome_text_area a:focus,
+.cyan .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.cyan .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.cyan .single_benifits.active .icon_box,
+.cyan .single_benifits.active h3,
+.cyan .about_us_text_area > a:hover,
+.cyan .total_subscriber_text > h3 span.counter,
+.cyan .single_work_step > i,
+.cyan .single_price_plan .button > a,
+.cyan .single_advisor_details_info > h5,
+.cyan .advisor_social_link > a,
+.cyan .testimonial_text > p:before,
+.cyan .testimonial_text > p:after,
+.cyan .single_latest_news_text_area .news_title h4,
+.cyan .single_latest_news_area:hover .single_latest_news_text_area .news_title h4,
+.cyan .single_latest_news_area .author > i,
+.cyan .single_latest_news_area .date > i,
+.cyan .learn_more_button > a:hover,
+.cyan .learn_more_button > a:focus,
+.cyan .footer_menu a:hover,
+.cyan .single_footer_area a:hover,
+.cyan .footer_bottom p i,
+.cyan .breadcrumb li > a,
+.cyan .breadcrumb li > a:hover,
+.cyan .page_title > h3,
+.cyan .singl-blog-top-bg-area p,
+.cyan .singl-blog-top-bg-area p a,
+.cyan .singl-blog-title h4,
+.cyan .singl-blog-status-bar span i,
+.cyan .blog-share button.like i,
+.cyan .social-links a:hover,
+.cyan .search_post > h5,
+.cyan .event_location > h5,
+.cyan .latest_post > h5,
+.cyan .catagory_section > h5,
+.cyan .tag_section > h5,
+.cyan .achive_section > h5,
+.cyan .achive_section ul li > a:hover,
+.cyan .catagory_section ul li > a:hover,
+.cyan .latest_post .single_latest_post > a > h5,
+.cyan .latest_post .single_latest_post > a > h5:hover,
+.cyan .find_answer_area > a {
+    color: #00BCD4;
+}
+
+.cyan #scrollUp,
+.cyan .header_signup_in_btn a,
+.cyan .welcome_text_area a,
+.cyan .single_about_part .feature_icon,
+.cyan .single_about_part .feature_icon:before,
+.cyan .single_about_part .feature_icon:after,
+.cyan .about_us_text_area > a,
+.cyan .total_subscriber_text > a:hover,
+.cyan .single_price_plan .button > a,
+.cyan .single_price_plan .button > a:hover,
+.cyan .single_price_plan .button > a:focus,
+.cyan .advisor_social_link > a:hover,
+.cyan .app_screenshots .owl-prev:hover,
+.cyan .app_screenshots .owl-next:hover,
+.cyan .testimonial_area .owl-dot.active,
+.cyan .newsletter-form-area button,
+.cyan .single-accordion h5 a,
+.cyan .find_answer_area,
+.cyan .single_timeline_block .timeline_icon,
+.cyan .timeline_text_content:hover:after,
+.cyan .download_app_area,
+.cyan .learn_more_button > a,
+.cyan .footer_social_area a:hover,
+.cyan .blog-tag button,
+.cyan .social-links li > a,
+.cyan .single_gallery_item:before,
+.cyan .single_gallery_item:after,
+.cyan .sg_hover_effects:before,
+.cyan .sg_hover_effects:after,
+.cyan .contact_input_area button:hover,
+.cyan .tag_section ul > li > a:hover,
+.cyan .onepage_single_demo > a:hover,
+.cyan .single_about_part:hover {
+    background-color: #00BCD4;
+}
+
+.cyan .app_screenshots .owl-item.center .single_screenshot,
+.cyan .app_screenshots .owl-prev:hover,
+.cyan .app_screenshots .owl-next:hover,
+.cyan .learn_more_button > a,
+.cyan .learn_more_button > a:hover,
+.cyan .learn_more_button > a:focus,
+.cyan .footer_social_area a:hover,
+.cyan .singl-blog-status-bar,
+.cyan .social-links li > a,
+.cyan .social-links a:hover,
+.cyan .contact_input_area .form-group input:focus,
+.cyan .contact_input_area .form-group textarea:focus,
+.cyan .contact_input_area button:hover,
+.cyan .mainmenu ul#nav > li > ul.sub-menu,
+.cyan .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.cyan .welcome_slider .welcome_slides .owl-nav .owl-next:hover {
+    border-color: #00BCD4;
+}
+
+.cyan .welcome_style_one {
+    background-color: rgba(0, 188, 212, 0.1)
+}
+
+.cyan .welcome_style_two {
+    background-color: rgba(0, 188, 212, 0.2)
+}
+
+.cyan .welcome_style_three {
+    background-color: rgba(0, 188, 212, 0.15)
+}
+
+.cyan .welcome_style_four {
+    background-color: rgba(0, 188, 212, 0.12)
+}
+
+.cyan .about_us_text_area > a:hover,
+.cyan .welcome_text_area a:hover,
+.cyan .welcome_text_area a:focus {
+    background-color: #fff;
+}
+
+.cyan .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.cyan .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.cyan .footer_social_area a:hover,
+.cyan .advisor_social_link > a:hover,
+.cyan .single_price_plan .button > a,
+.cyan .single_price_plan .button > a:hover,
+.cyan .single_price_plan .button > a:focus {
+    color: #fff;
+}
+
+.cyan .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.cyan .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.cyan .timeline_text_content:hover,
+.cyan .single_about_part:hover {
+    background-color: #00BCD4 !important;
+}
+
+.cyan .video_area:before {
+    background: #00BCD4;
+}
+
+.cyan .single-accordion h5 a.collapsed {
+    background-color: #fff;
+}
+
+
+/* teal Skin Color CSS */
+
+.teal .single_latest_post h6:hover,
+.teal .single_price_plan .price,
+.teal .download_app_text > a,
+.teal .footer_bottom a,
+.teal .footer_social_area a,
+.teal .section_heading > h3 > span,
+.teal.default-version .mainmenu ul#nav li:hover a,
+.teal.boxed_version .mainmenu ul#nav li:hover a,
+.teal.rtl_version .mainmenu ul#nav li:hover a .sticky .mainmenu ul#nav li.active a,
+.teal .sticky .mainmenu ul#nav li:hover a,
+.teal .sticky .mainmenu ul#nav li a:hover,
+.teal .sticky .mainmenu ul#nav li.current_page_item a,
+.teal.default-version .mainmenu ul#nav li a:hover,
+.teal.default-version .mainmenu ul#nav li.current_page_item a,
+.teal.boxed_version .mainmenu ul#nav li a:hover,
+.teal.boxed_version .mainmenu ul#nav li.current_page_item a,
+.teal .mainmenu ul#nav > li ul.sub-menu li a:hover,
+.teal .welcome_text_area h3.price,
+.teal .welcome_text_area a:hover,
+.teal .welcome_text_area a:focus,
+.teal .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.teal .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.teal .single_benifits.active .icon_box,
+.teal .single_benifits.active h3,
+.teal .about_us_text_area > a:hover,
+.teal .total_subscriber_text > h3 span.counter,
+.teal .single_work_step > i,
+.teal .single_price_plan .button > a,
+.teal .single_advisor_details_info > h5,
+.teal .advisor_social_link > a,
+.teal .testimonial_text > p:before,
+.teal .testimonial_text > p:after,
+.teal .single_latest_news_text_area .news_title h4,
+.teal .single_latest_news_area:hover .single_latest_news_text_area .news_title h4,
+.teal .single_latest_news_area .author > i,
+.teal .single_latest_news_area .date > i,
+.teal .learn_more_button > a:hover,
+.teal .learn_more_button > a:focus,
+.teal .footer_menu a:hover,
+.teal .single_footer_area a:hover,
+.teal .footer_bottom p i,
+.teal .breadcrumb li > a,
+.teal .breadcrumb li > a:hover,
+.teal .page_title > h3,
+.teal .singl-blog-top-bg-area p,
+.teal .singl-blog-top-bg-area p a,
+.teal .singl-blog-title h4,
+.teal .singl-blog-status-bar span i,
+.teal .blog-share button.like i,
+.teal .social-links a:hover,
+.teal .search_post > h5,
+.teal .event_location > h5,
+.teal .latest_post > h5,
+.teal .catagory_section > h5,
+.teal .tag_section > h5,
+.teal .achive_section > h5,
+.teal .achive_section ul li > a:hover,
+.teal .catagory_section ul li > a:hover,
+.teal .latest_post .single_latest_post > a > h5,
+.teal .latest_post .single_latest_post > a > h5:hover,
+.teal .find_answer_area > a {
+    color: #009688;
+}
+
+.teal #scrollUp,
+.teal .header_signup_in_btn a,
+.teal .welcome_text_area a,
+.teal .single_about_part .feature_icon,
+.teal .single_about_part .feature_icon:before,
+.teal .single_about_part .feature_icon:after,
+.teal .about_us_text_area > a,
+.teal .total_subscriber_text > a:hover,
+.teal .single_price_plan .button > a,
+.teal .single_price_plan .button > a:hover,
+.teal .single_price_plan .button > a:focus,
+.teal .advisor_social_link > a:hover,
+.teal .app_screenshots .owl-prev:hover,
+.teal .app_screenshots .owl-next:hover,
+.teal .testimonial_area .owl-dot.active,
+.teal .newsletter-form-area button,
+.teal .single-accordion h5 a,
+.teal .find_answer_area,
+.teal .single_timeline_block .timeline_icon,
+.teal .timeline_text_content:hover:after,
+.teal .download_app_area,
+.teal .learn_more_button > a,
+.teal .footer_social_area a:hover,
+.teal .blog-tag button,
+.teal .social-links li > a,
+.teal .single_gallery_item:before,
+.teal .single_gallery_item:after,
+.teal .sg_hover_effects:before,
+.teal .sg_hover_effects:after,
+.teal .contact_input_area button:hover,
+.teal .tag_section ul > li > a:hover,
+.teal .onepage_single_demo > a:hover,
+.teal .single_about_part:hover {
+    background-color: #009688;
+}
+
+.teal .app_screenshots .owl-item.center .single_screenshot,
+.teal .app_screenshots .owl-prev:hover,
+.teal .app_screenshots .owl-next:hover,
+.teal .learn_more_button > a,
+.teal .learn_more_button > a:hover,
+.teal .learn_more_button > a:focus,
+.teal .footer_social_area a:hover,
+.teal .singl-blog-status-bar,
+.teal .social-links li > a,
+.teal .social-links a:hover,
+.teal .contact_input_area .form-group input:focus,
+.teal .contact_input_area .form-group textarea:focus,
+.teal .contact_input_area button:hover,
+.teal .mainmenu ul#nav > li > ul.sub-menu,
+.teal .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.teal .welcome_slider .welcome_slides .owl-nav .owl-next:hover {
+    border-color: #009688;
+}
+
+.teal .welcome_style_one {
+    background-color: rgba(0, 150, 136, 0.1)
+}
+
+.teal .welcome_style_two {
+    background-color: rgba(0, 150, 136, 0.2)
+}
+
+.teal .welcome_style_three {
+    background-color: rgba(0, 150, 136, 0.15)
+}
+
+.teal .welcome_style_four {
+    background-color: rgba(0, 150, 136, 0.12)
+}
+
+.teal .about_us_text_area > a:hover,
+.teal .welcome_text_area a:hover,
+.teal .welcome_text_area a:focus {
+    background-color: #fff;
+}
+
+.teal .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.teal .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.teal .footer_social_area a:hover,
+.teal .advisor_social_link > a:hover,
+.teal .single_price_plan .button > a,
+.teal .single_price_plan .button > a:hover,
+.teal .single_price_plan .button > a:focus {
+    color: #fff;
+}
+
+.teal .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.teal .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.teal .timeline_text_content:hover,
+.teal .single_about_part:hover {
+    background-color: #009688 !important;
+}
+
+.teal .video_area:before {
+    background: #009688;
+}
+
+.teal .single-accordion h5 a.collapsed {
+    background-color: #fff;
+}
+
+
+/* pink Skin Color CSS */
+
+.pink .single_price_plan .price,
+.pink .single_latest_post h6:hover,
+.pink .download_app_text > a,
+.pink .footer_bottom a,
+.pink .footer_social_area a,
+.pink .section_heading > h3 > span,
+.pink.default-version .mainmenu ul#nav li:hover a,
+.pink.boxed_version .mainmenu ul#nav li:hover a,
+.pink.rtl_version .mainmenu ul#nav li:hover a .sticky .mainmenu ul#nav li.active a,
+.pink .sticky .mainmenu ul#nav li:hover a,
+.pink .sticky .mainmenu ul#nav li a:hover,
+.pink .sticky .mainmenu ul#nav li.current_page_item a,
+.pink.default-version .mainmenu ul#nav li a:hover,
+.pink.default-version .mainmenu ul#nav li.current_page_item a,
+.pink.boxed_version .mainmenu ul#nav li a:hover,
+.pink.boxed_version .mainmenu ul#nav li.current_page_item a,
+.pink .mainmenu ul#nav > li ul.sub-menu li a:hover,
+.pink .welcome_text_area h3.price,
+.pink .welcome_text_area a:hover,
+.pink .welcome_text_area a:focus,
+.pink .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.pink .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.pink .single_benifits.active .icon_box,
+.pink .single_benifits.active h3,
+.pink .about_us_text_area > a:hover,
+.pink .total_subscriber_text > h3 span.counter,
+.pink .single_work_step > i,
+.pink .single_price_plan .button > a,
+.pink .single_advisor_details_info > h5,
+.pink .advisor_social_link > a,
+.pink .testimonial_text > p:before,
+.pink .testimonial_text > p:after,
+.pink .single_latest_news_text_area .news_title h4,
+.pink .single_latest_news_area:hover .single_latest_news_text_area .news_title h4,
+.pink .single_latest_news_area .author > i,
+.pink .single_latest_news_area .date > i,
+.pink .learn_more_button > a:hover,
+.pink .learn_more_button > a:focus,
+.pink .footer_menu a:hover,
+.pink .single_footer_area a:hover,
+.pink .footer_bottom p i,
+.pink .breadcrumb li > a,
+.pink .breadcrumb li > a:hover,
+.pink .page_title > h3,
+.pink .singl-blog-top-bg-area p,
+.pink .singl-blog-top-bg-area p a,
+.pink .singl-blog-title h4,
+.pink .singl-blog-status-bar span i,
+.pink .blog-share button.like i,
+.pink .social-links a:hover,
+.pink .search_post > h5,
+.pink .event_location > h5,
+.pink .latest_post > h5,
+.pink .catagory_section > h5,
+.pink .tag_section > h5,
+.pink .achive_section > h5,
+.pink .achive_section ul li > a:hover,
+.pink .catagory_section ul li > a:hover,
+.pink .latest_post .single_latest_post > a > h5,
+.pink .latest_post .single_latest_post > a > h5:hover,
+.pink .find_answer_area > a {
+    color: #E91E63;
+}
+
+.pink #scrollUp,
+.pink .header_signup_in_btn a,
+.pink .welcome_text_area a,
+.pink .single_about_part .feature_icon,
+.pink .single_about_part .feature_icon:before,
+.pink .single_about_part .feature_icon:after,
+.pink .about_us_text_area > a,
+.pink .total_subscriber_text > a:hover,
+.pink .single_price_plan .button > a,
+.pink .single_price_plan .button > a:hover,
+.pink .single_price_plan .button > a:focus,
+.pink .advisor_social_link > a:hover,
+.pink .app_screenshots .owl-prev:hover,
+.pink .app_screenshots .owl-next:hover,
+.pink .testimonial_area .owl-dot.active,
+.pink .newsletter-form-area button,
+.pink .single-accordion h5 a,
+.pink .find_answer_area,
+.pink .single_timeline_block .timeline_icon,
+.pink .timeline_text_content:hover:after,
+.pink .download_app_area,
+.pink .learn_more_button > a,
+.pink .footer_social_area a:hover,
+.pink .blog-tag button,
+.pink .social-links li > a,
+.pink .single_gallery_item:before,
+.pink .single_gallery_item:after,
+.pink .sg_hover_effects:before,
+.pink .sg_hover_effects:after,
+.pink .contact_input_area button:hover,
+.pink .tag_section ul > li > a:hover,
+.pink .onepage_single_demo > a:hover,
+.pink .single_about_part:hover {
+    background-color: #E91E63;
+}
+
+.pink .app_screenshots .owl-item.center .single_screenshot,
+.pink .app_screenshots .owl-prev:hover,
+.pink .app_screenshots .owl-next:hover,
+.pink .learn_more_button > a,
+.pink .learn_more_button > a:hover,
+.pink .learn_more_button > a:focus,
+.pink .footer_social_area a:hover,
+.pink .singl-blog-status-bar,
+.pink .social-links li > a,
+.pink .social-links a:hover,
+.pink .contact_input_area .form-group input:focus,
+.pink .contact_input_area .form-group textarea:focus,
+.pink .contact_input_area button:hover,
+.pink .mainmenu ul#nav > li > ul.sub-menu,
+.pink .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.pink .welcome_slider .welcome_slides .owl-nav .owl-next:hover {
+    border-color: #E91E63;
+}
+
+.pink .welcome_style_one {
+    background-color: rgba(233, 30, 99, 0.1)
+}
+
+.pink .welcome_style_two {
+    background-color: rgba(233, 30, 99, 0.2)
+}
+
+.pink .welcome_style_three {
+    background-color: rgba(233, 30, 99, 0.15)
+}
+
+.pink .welcome_style_four {
+    background-color: rgba(233, 30, 99, 0.12)
+}
+
+.pink .about_us_text_area > a:hover,
+.pink .welcome_text_area a:hover,
+.pink .welcome_text_area a:focus {
+    background-color: #fff;
+}
+
+.pink .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.pink .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.pink .footer_social_area a:hover,
+.pink .advisor_social_link > a:hover,
+.pink .single_price_plan .button > a,
+.pink .single_price_plan .button > a:hover,
+.pink .single_price_plan .button > a:focus {
+    color: #fff;
+}
+
+.pink .welcome_slider .welcome_slides .owl-nav .owl-prev:hover,
+.pink .welcome_slider .welcome_slides .owl-nav .owl-next:hover,
+.pink .timeline_text_content:hover,
+.pink .single_about_part:hover {
+    background-color: #E91E63 !important;
+}
+
+.pink .video_area:before {
+    background: #E91E63;
+}
+
+.pink .single-accordion h5 a.collapsed {
+    background-color: #fff;
+}

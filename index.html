@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title  -->
+    <title>TraceFacil</title>
+
+    <!-- Favicon  -->
+    <link rel="shortcut icon" href="img/core-img/logo.png">
+
+    <!-- ::::::::::::::::::::::::::: All CSS Files ::::::::::::::::::::::::::: -->
+
+    <!-- Style css -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Responsive css -->
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- Skin css -->
+    <link rel="stylesheet" href="css/skin.css">
+
+    <!--[if IE]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body class="default-version">
+    <!-- Preloader Start -->
+    <div id="preloader">
+        <div class="apland-load"></div>
+    </div>
+
+    <!-- ::::::::::::::::::::::::::: Header Start ::::::::::::::::::::::::::: -->
+    <header class="header_area">
+        <!-- Main Header Area Start -->
+        <div class="main_header_area animated">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-4 col-sm-2">
+                        <!-- Logo Area:: For better view in all device please use logo image max-width 70px -->
+                        <div class="logo_area">
+                            <a href="index.html">
+                                <img src="img/core-img/logo.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-8 col-sm-10 text-right">
+                        <!-- Menu Area Start -->
+                        <div class="main_menu_area d-inline-block">
+                            <div class="mainmenu">
+                                <nav>
+                                    <ul id="nav">
+                                        <li class="current_page_item">
+                                            <a href="#home" onclick="actionMenu.home()">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="#features" onclick="actionMenu.functionalities()">Funcionalidades</a>
+                                        </li>
+                                        <li>
+                                            <a href="#price" onclick="actionMenu.price()">Preço</a>
+                                        </li>
+                                        <li>
+                                            <a href="#faq" onclick="actionMenu.faq()">FAQ</a>
+                                        </li>
+                                        <li>
+                                            <a href="#download" onclick="actionMenu.download()">Download</a>
+                                        </li>
+                                        <li>
+                                            <a href="#contact" onclick="actionMenu.contact()">Contato</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Main Header Area End -->
+    </header>
+    <!-- ::::::::::::::::::::::::::: Header End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: Welcome Area Start ::::::::::::::::::::::::::: -->
+    <section class="welcome_area" id="home">
+        <div class="table">
+            <div class="table_cell">
+                <div class="container">
+                    <div id="google_translate_element" onclick="action.changeLanguage()"></div>
+                    <div class="row align-items-center">
+                        <div class="col-12 col-md-8">
+                            <!-- Welcome Area Text Start -->
+                            <div class="welcome_text_area">
+                                <h2>Simplifique seu trabalho</h2>
+                                <p>Usando o nosso aplicativo você pode fazer os cálculos dos seus traçados de caldeiraria sem
+                                    precisar sair do lugar, e o melhor não precisa de internet!</p>
+                                <a href="https://play.google.com/store/apps/details?id=br.com.engcad" target="_blank" class="btn btn-lg" onclick="action.download()">Baixar</a>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4">
+                            <!-- Welcome Area Image Start -->
+                            <div class="welcome_area_thumb text-center">
+                                <img src="img/bg-pattern/welcome-pro-1.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Welcome Area Background Style -->
+        <div class="welcome_style_one"></div>
+        <div class="welcome_style_two"></div>
+        <div class="welcome_style_three"></div>
+        <div class="welcome_style_four"></div>
+    </section>
+    <!-- ::::::::::::::::::::::::::: Welcome Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: About App Area Start ::::::::::::::::::::::::::: -->
+    <section class="about_app_area section_padding_100">
+        <div class="container">
+            <div class="row justify-content-center align-items-center">
+
+                <!-- About Image Start -->
+                <div class="col-12 col-md-6 col-lg-5">
+                    <div class="about_image">
+                        <div class="big_thumb">
+                            <img src="img/bg-pattern/about-app-1.png" alt="">
+                        </div>
+                        <div class="small_thumb wow fadeInLeft" data-wow-delay="0.2s">
+                            <img src="img/bg-pattern/about-app-2.png" alt="">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- About Text Start -->
+                <div class="col-12 col-md-6 col-lg-5">
+                    <div class="about_us_text_area">
+                        <h3>Direto, Simples &amp; Rápido</h3>
+                        <p>Trabalhamos com o conceito de simplicidade e facilidade</p>
+                        <p>Em apenas 1 minuto você já tem o resultado de qualquer traçado</p>
+                        <p>De forma rápida você consegue fazer o cálculo de qualquer traçado em qualquer lugar, sem precisar
+                            de internet</p>
+                        <p>Aplicamos as melhores práticas de design para melhorar a usabilidade do aplicativo, fornecendo um
+                            ambiente confortável, simples e intuitivo para os nossos usuários</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ::::::::::::::::::::::::::: About App Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: Features Area Start ::::::::::::::::::::::::::: -->
+    <div class="more_features_area section_padding_100_70" id="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- Section Heading Start -->
+                    <div class="section_heading">
+                        <h3>
+                            <span>Benefícios</span>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- Single Benifits Area Start -->
+                <div class="col-sm-6 col-lg-3">
+                    <div class="single_benifits active">
+                        <div class="icon_box">
+                            <i class="pe-7s-pendrive" aria-hidden="true"></i>
+                        </div>
+                        <h3>Sem internet</h3>
+                        <p>Você não precisa de internet para usar o aplicativo. Dessa forma você pode utiliza-lo em qualquer
+                            lugar
+                        </p>
+                    </div>
+                </div>
+                <!-- Single Benifits Area Start -->
+                <div class="col-sm-6 col-lg-3">
+                    <div class="single_benifits">
+                        <div class="icon_box">
+                            <i class="pe-7s-rocket" aria-hidden="true"></i>
+                        </div>
+                        <h3>Super Rápido</h3>
+                        <p>Em apenas 1 minuto você consegue fazer o cálculo de qualquer traçado</p>
+                    </div>
+                </div>
+                <!-- Single Benifits Area Start -->
+                <div class="col-sm-6 col-lg-3">
+                    <div class="single_benifits">
+                        <div class="icon_box">
+                            <i class="pe-7s-science" aria-hidden="true"></i>
+                        </div>
+                        <h3>Design Simples</h3>
+                        <p>Criamos uma interface simples de usar, deixando mais direto e intuitivo</p>
+                    </div>
+                </div>
+                <!-- Single Benifits Area Start -->
+                <div class="col-sm-6 col-lg-3">
+                    <div class="single_benifits">
+                        <div class="icon_box">
+                            <i class="pe-7s-box2" aria-hidden="true"></i>
+                        </div>
+                        <h3>Melhorias contantes</h3>
+                        <p>Estamos sempre melhorando nosso aplicativo, através dos feedbacks e estatísticas</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ::::::::::::::::::::::::::: Features Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: Work Process Area Start ::::::::::::::::::::::::::: -->
+    <section class="work_process_area section_padding_100_70">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- Section Heading Start -->
+                    <div class="section_heading">
+                        <h3>Como Usar
+                        </h3>
+                        <p>É tão simples que em apenas 4 passos você já consegue utilizar nosso aplicativo</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <!-- Single Work Step -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single_work_step wow fadeInLeft" data-wow-delay="0.1s">
+                        <img src="img/core-img/installation.svg" alt="">
+                        <h3 class="mb-0">Instale</h3>
+                    </div>
+                </div>
+                <!-- Single Work Step -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single_work_step wow fadeInLeft" data-wow-delay="0.6s">
+                        <img src="img/core-img/register.svg" alt="">
+                        <h3 class="mb-0">Selecione um traçado</h3>
+                    </div>
+                </div>
+                <!-- Single Work Step -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single_work_step wow fadeInLeft" data-wow-delay="1.1s">
+                        <img src="img/core-img/user.svg" alt="">
+                        <h3 class="mb-0">Preencha os campos do traçado</h3>
+                    </div>
+                </div>
+                <!-- Single Work Step -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single_work_step wow fadeInLeft" data-wow-delay="1.6s">
+                        <img src="img/core-img/approve.svg" alt="">
+                        <h3 class="mb-0">Pronto</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ::::::::::::::::::::::::::: Work Process Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: App Screenshot Area Start ::::::::::::::::::::::::::: -->
+    <section class="app_screenshot_area section_padding_100">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- Section Heading Start -->
+                    <div class="section_heading">
+                        <h3>
+                            <span>Fotos</span>
+                        </h3>
+                        <p>Conheça um pouco do nosso app com essas fotos originais</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12">
+                    <!-- App Screenshot Slider Area -->
+                    <div class="app_screenshots">
+                        <!-- Single Slide -->
+                        <div class="single_screenshot">
+                            <img src="img/screenshot/01.png" alt="">
+                        </div>
+                        <!-- Single Slide -->
+                        <div class="single_screenshot">
+                            <img src="img/screenshot/02.png" alt="">
+                        </div>
+                        <!-- Single Slide -->
+                        <div class="single_screenshot">
+                            <img src="img/screenshot/03.png" alt="">
+                        </div>
+                        <!-- Single Slide -->
+                        <div class="single_screenshot">
+                            <img src="img/screenshot/04.png" alt="">
+                        </div>
+                        <!-- Single Slide -->
+                        <div class="single_screenshot">
+                            <img src="img/screenshot/05.png" alt="">
+                        </div>
+                        <!-- Single Slide -->
+                        <div class="single_screenshot">
+                            <img src="img/screenshot/06.png" alt="">
+                        </div>
+                        <!-- Single Slide -->
+                        <div class="single_screenshot">
+                            <img src="img/screenshot/07.png" alt="">
+                        </div>
+                        <!-- Single Slide -->
+                        <div class="single_screenshot">
+                            <img src="img/screenshot/08.png" alt="">
+                        </div>
+                        <!-- Single Slide -->
+                        <div class="single_screenshot">
+                            <img src="img/screenshot/09.png" alt="">
+                        </div>
+                        <!-- Single Slide -->
+                        <div class="single_screenshot">
+                            <img src="img/screenshot/10.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ::::::::::::::::::::::::::: App Screenshot Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: Price and Plans Area Start ::::::::::::::::::::::::::: -->
+    <div class="price_plan_area section_padding_100_70" id="price">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- Section Heading Start -->
+                    <div class="section_heading">
+                        <h3>
+                            <span>Preço</span>
+                        </h3>
+                        <p>Nosso aplicativo é totalmente gratuito!</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Single Price Plan Area Start -->
+            <center>
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single_price_plan active">
+                        <div class="title">
+                            <h3>Start-up</h3>
+                            <p>Básico</p>
+                        </div>
+                        <div class="price">
+                            <h4>R$ 0,00</h4>
+                        </div>
+                        <div class="description">
+                            <p>7 Traçados</p>
+                            <p>Sem anúncio</p>
+                            <p>Tradução para 4 idiomas</p>
+                            <p>Sem restrição de uso</p>
+                        </div>
+                        <div class="button">
+                            <a class="btn btn-md" href="#download" role="button" onclick="action.startUse()">Começar a usar</a>
+                        </div>
+                    </div>
+                </div>
+            </center>
+
+        </div>
+    </div>
+    </div>
+    <!-- ::::::::::::::::::::::::::: Price and Plans Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: Our Advisor Area Start ::::::::::::::::::::::::::: -->
+    <section class="our_advisor_area section_padding_100_70" id="advisor">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- Section Heading Start -->
+                    <div class="section_heading">
+                        <h3>Nosso
+                            <span>Time</span>
+                        </h3>
+                        <p>Nossa startup é composta por 4 pessoas de diferentes talentos que trabalham duro para deixar nosso
+                            produto da melhor qualidade possível</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+
+                <!-- Single advisor profile area start -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single_advisor_profile">
+                        <!-- Single advisor profile details -->
+                        <div class="single_advisor_details_info">
+                            <h5>Charles Anjos</h5>
+                            <p class="designation">Founder</p>
+                            <div class="advisor-line"></div>
+                            <p>Senhor dos Números &amp; Engenheiro mecânico e caldeireiro há mais de 10 anos</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single advisor profile area start -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single_advisor_profile">
+                        <!-- Single advisor profile details -->
+                        <div class="single_advisor_details_info">
+                            <h5>Charleston Anjos</h5>
+                            <p class="designation">CEO &amp; Co-founder</p>
+                            <div class="advisor-line"></div>
+                            <p>Aspirante em transformação &amp; Design Thinking</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single advisor profile area start -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single_advisor_profile">
+                        <!-- Single advisor profile details -->
+                        <div class="single_advisor_details_info">
+                            <h5>Ezequiel Messore</h5>
+                            <p class="designation">Android Developer</p>
+                            <div class="advisor-line"></div>
+                            <p>O cara que transforma café em código</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single advisor profile area start -->
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="single_advisor_profile">
+                        <!-- Single advisor profile details -->
+                        <div class="single_advisor_details_info">
+                            <h5>Ellen Anjos</h5>
+                            <p class="designation">Digital Marketing</p>
+                            <div class="advisor-line"></div>
+                            <p>A que deixa a gente mais bonito pra você :)</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- ::::::::::::::::::::::::::: Our advisor Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: FAQ Area Start ::::::::::::::::::::::::::: -->
+    <section class="faq_area section_padding_100" id="faq">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- Section Heading Start -->
+                    <div class="section_heading">
+                        <h3>
+                            Perguntas &amp; Dúvidas Frequentes -
+                            <span>FAQ</span>
+                        </h3>
+                        <p>Selecionamos algumas perguntas frequentes e outros itens de ajuda</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-md-8 clearfix">
+                    <div class="accordions" id="accordion2" role="tablist" aria-multiselectable="true">
+
+                        <!-- single accordian area start -->
+                        <div class="panel single-accordion">
+                            <h5>
+                                <a role="button" class="collapsed" aria-expanded="true" aria-controls="six" data-toggle="collapse" data-parent="#accordion2"
+                                    href="#six" onclick="actionFAQ.howToInstall()">Como instalar o aplicativo?
+                                    <span class="accor-open">
+                                        <i class="icofont icofont-rounded-down"></i>
+                                    </span>
+                                    <span class="accor-close">
+                                        <i class="icofont icofont-rounded-up"></i>
+                                    </span>
+                                </a>
+                            </h5>
+                            <div id="six" class="accordion-content collapse">
+                                <p>Para instalar o aplicativo você pode
+                                    <a href="#download">clicar aqui</a>
+                                </p>
+                                <p>Se mesmo assim você não conseguir, você pode entrar na Play Store do seu dispostivo Android
+                                    e procure por TraceFacil, após isso selecione o app e depois clique no botão Instalar</p>
+                            </div>
+                        </div>
+
+                        <!-- single accordian area start -->
+                        <div class="panel single-accordion">
+                            <h5>
+                                <a role="button" class="collapsed" aria-expanded="true" aria-controls="seven" data-parent="#accordion2" data-toggle="collapse"
+                                    href="#seven" onclick="actionFAQ.howToChangeLanguage()">Como mudar o idioma?
+                                    <span class="accor-open">
+                                        <i class="icofont icofont-rounded-down"></i>
+                                    </span>
+                                    <span class="accor-close">
+                                        <i class="icofont icofont-rounded-up"></i>
+                                    </span>
+                                </a>
+                            </h5>
+                            <div id="seven" class="accordion-content collapse">
+                                <p>Para mudar o idioma escolhido na instalação do aplicativo é bem simples</p>
+                                <p>Abra seu aplicativo TraceFacil vá até o Menu Lateral clicando no ícone igual a este (
+                                    <img src="img/ic_menu.png" />), depois selecione a opção Idioma, feito isso vai aparecer uma lista de idiomas para
+                                    escolher, selecione uma e pronto :)</p>
+                            </div>
+                        </div>
+
+                        <!-- single accordian area start -->
+                        <div class="panel single-accordion">
+                            <h5>
+                                <a role="button" aria-expanded="true" aria-controls="eight" class="collapsed" data-parent="#accordion2" data-toggle="collapse"
+                                    href="#eight" onclick="actionFAQ.moreStrokes()">Vai ter mais traçados?
+                                    <span class="accor-open">
+                                        <i class="icofont icofont-rounded-down"></i>
+                                    </span>
+                                    <span class="accor-close">
+                                        <i class="icofont icofont-rounded-up"></i>
+                                    </span>
+                                </a>
+                            </h5>
+                            <div id="eight" class="accordion-content collapse">
+                                <p>Sim com certeza!</p>
+                                <p>Estamos com nossa equipe trabalhando duro pra isso. Temos mais de 50 traçados já mapeados
+                                    em nossa lista.
+                                    <br/>Caso tenha algum que usa bastante no dia-a-dia, comente com a gente através do nosso
+                                    canal de contato por e-mail ;)
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-4">
+                    <!-- Can't Find Answer Area -->
+                    <div class="find_answer_area">
+                        <h5>Não tiramos sua dúvida? :(</h5>
+                        <p>Você pode falar diretamente com a gente</p>
+                        <a href="#contact" onclick="action.speakByEmail()">
+                            <i class="icofont icofont-mail"></i> E-mail</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ::::::::::::::::::::::::::: FAQ Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: Timeline Area Start ::::::::::::::::::::::::::: -->
+    <section class="timeline_area section_padding_100">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- Section Heading Start -->
+                    <div class="section_heading">
+                        <h3>Nossa
+                            <span>História</span>
+                        </h3>
+                        <p>Vamos contar um pouquinho da nossa história e do trabalho árduo que estamos fazendo pra vocês :)</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12">
+                    <div class="history_timeline_area">
+
+                        <!-- Single Timeline Area Start -->
+                        <div class="single_timeline_block even-item clearfix">
+                            <div class="timeline_icon">
+                                <i class="icofont icofont-users"></i>
+                            </div>
+                            <div class="timeline_text_content">
+                                <h4>Avançar</h4>
+                                <h6>Fevereiro 2018</h6>
+                                <p>Melhoramos as imagens do traçados e criamos um menu lateral com algumas opções essenciais
+                                    como mudança de idioma, compartilhamento via indicação entre outros</p>
+                            </div>
+                        </div>
+
+                        <!-- Single Timeline Area Start -->
+                        <div class="single_timeline_block odd-item clearfix">
+                            <div class="timeline_icon">
+                                <i class="icofont icofont-exchange"></i>
+                            </div>
+                            <div class="timeline_text_content">
+                                <h4>Crescimento &amp; Crescimento</h4>
+                                <h6>Janeiro 2018</h6>
+                                <p>Atingimos mais de 50 mil downloads envolvendo o mundo todo e ainda assim queremos crescer
+                                    e crescer melhorando cada vez mais nosso aplicativo</p>
+                            </div>
+                        </div>
+
+                        <!-- Single Timeline Area Start -->
+                        <div class="single_timeline_block even-item clearfix">
+                            <div class="timeline_icon">
+                                <i class="icofont icofont-bug"></i>
+                            </div>
+                            <div class="timeline_text_content">
+                                <h4>Melhorias</h4>
+                                <h6>Dezembro de 2017</h6>
+                                <p>Lançamos novos traçados e fizemos várias melhorias de interface e de usabilidade</p>
+                            </div>
+                        </div>
+
+                        <!-- Single Timeline Area Start -->
+                        <div class="single_timeline_block odd-item clearfix">
+                            <div class="timeline_icon">
+                                <i class="icofont icofont-users-social"></i>
+                            </div>
+                            <div class="timeline_text_content">
+                                <h4>Crescimento</h4>
+                                <h6>Novembro 2017</h6>
+                                <p>Conseguimos atingir mais de 10 mil downloads, mas ainda assim estavamos com a meta de crescer
+                                    ainda mais esse ano</p>
+                            </div>
+                        </div>
+
+                        <!-- Single Timeline Area Start -->
+                        <div class="single_timeline_block even-item clearfix">
+                            <div class="timeline_icon">
+                                <i class="icofont icofont-power-zone"></i>
+                            </div>
+                            <div class="timeline_text_content">
+                                <h4>Mais poder e estabilidade</h4>
+                                <h6>Outubro de 2017</h6>
+                                <p>Após 3 meses conseguimos coletar dados e ir validando nosso produto para melhorar ainda mais
+                                    o nosso aplicativo dando poder de crescimento escalável</p>
+                            </div>
+                        </div>
+
+                        <!-- Single Timeline Area Start -->
+                        <div class="single_timeline_block odd-item clearfix">
+                            <div class="timeline_icon">
+                                <i class="icofont icofont-paper-plane"></i>
+                            </div>
+                            <div class="timeline_text_content">
+                                <h4>Início</h4>
+                                <h6>Julho 2017</h6>
+                                <p>Iniciamos o projeto para facilitar os cálculos dos traçados com o desafio de melhorar a produtividade
+                                    dos caldereiros</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ::::::::::::::::::::::::::: Timeline Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: Download App Area Start ::::::::::::::::::::::::::: -->
+    <div class="download_app_area section_padding_100" id="download">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- Section Heading Start -->
+                    <div class="section_heading clearfix">
+                        <h3>Download App</h3>
+                        <p>Você pode baixar o nosso aplicativo Android na PlayStore clicando no botão abaixo ;)</p>
+                    </div>
+                    <!-- Download Text Area -->
+                    <div class="download_app_text text-center">
+                        <a href="https://play.google.com/store/apps/details?id=br.com.engcad" target="_blank" class="btn btn-lg" onclick="action.download()">
+                            <i class="icofont icofont-brand-android-robot"></i>
+                            <span>Download</span>
+                        </a>
+                        <!-- Download Image Area -->
+                        <div class="download_img  wow fadeInDown" data-wow-delay="0.2s">
+                            <img src="img/bg-pattern/download-mobile.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ::::::::::::::::::::::::::: Download App Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: Message Now Area Start ::::::::::::::::::::::::::: -->
+    <section class="message_now_area section_padding_100_70" id="contact">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-lg-8">
+                    <!-- Message Title -->
+                    <div class="message_title">
+                        <!-- Section Heading Start -->
+                        <div class="section_heading">
+                            <h3>
+                                <span>Escreva</span> pra gente</h3>
+                            <p>O que você está achando do nosso serviço? Deixe seu feedback :)</p>
+                        </div>
+                    </div>
+
+                    <div class="contact_from">
+                        <form id="main_contact_form">
+                            <!-- Message Input Area Start -->
+                            <div class="contact_input_area">
+                                <div id="success_fail_info"></div>
+                                <div class="row">
+                                    <!-- Single Input Area Start -->
+                                    <div class="col-lg-6 col-12">
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" name="name" id="name" placeholder="Seu nome *" required>
+                                        </div>
+                                    </div>
+                                    <!-- Single Input Area Start -->
+                                    <div class="col-lg-6 col-12">
+                                        <div class="form-group">
+                                            <input type="email" class="form-control" name="email" id="email" placeholder="Seu e-mail *" required>
+                                        </div>
+                                    </div>
+                                    <!-- Single Input Area Start -->
+                                    <div class="col-lg-6 col-12">
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" name="subject" id="subject" placeholder="Assunto *" required>
+                                        </div>
+                                    </div>
+                                    <!-- Single Input Area Start -->
+                                    <div class="col-12">
+                                        <div class="form-group textarea">
+                                            <textarea name="message" class="form-control" id="message" cols="30" rows="10" placeholder="Deixe sua mensagem *" required></textarea>
+                                        </div>
+                                    </div>
+                                    <!-- Single Input Area Start -->
+                                    <div class="col-12">
+                                        <button  class="btn" id="sendEmail">ENVIAR</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Message Input Area End -->
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ::::::::::::::::::::::::::: Message Now Area Start ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: Footer Area Start ::::::::::::::::::::::::::: -->
+    <footer class="footer_area">
+        <!-- Bottom Footer Area Start -->
+        <div class="footer_bottom_area">
+            <div class="container">
+                <div class="row">
+                    <!-- Footer Social Area Start -->
+                    <div class="col-12">
+                        <div class="footer_social_area">
+                            <a href="https://www.facebook.com/tracefacil/" target="_blank" onclick="action.facebook()">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer_copywrite_area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <!-- Footer Copwrite Area -->
+                        <div class="footer_bottom text-center">
+                            <p>Made with
+                                <i class="fa fa-heart"></i> by
+                                <a href="#">TraceFacil SA.</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ::::::::::::::::::::::::::: Footer Area End ::::::::::::::::::::::::::: -->
+
+    <!-- ::::::::::::::::::::::::::: All jQuery Plugins ::::::::::::::::::::::::::: -->
+
+    <!-- jQuery (necessary for all JavaScript plugins) -->
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Owl Carousel js -->
+    <script src="js/owl.carousel.min.js"></script>
+    <!-- Plugins js -->
+    <script src="js/plugins.min.js"></script>
+    <!-- Active js -->
+    <script src="js/custom.js"></script>
+    <!-- Amplitude js -->
+    <script src="js/amp.js"></script>
+    <script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({ pageLanguage: 'pt' }, 'google_translate_element');
+        }
+    </script>
+</body>
+
+</html>
