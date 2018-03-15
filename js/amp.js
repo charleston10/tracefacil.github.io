@@ -92,8 +92,6 @@ var action = {
     },
     sendFormMail: function () {
         amplitude.getInstance().logEvent('action_send_form_mail');
-
-        sendMail()
     }
 }
 
@@ -108,16 +106,3 @@ var actionFAQ = {
         amplitude.getInstance().logEvent('action_faq_more_strokes');
     }
 }
-
-function sendMail() {
-    var name = document.getElementById("name").value
-    var email = document.getElementById("email").value
-    var subject = document.getElementById("subject").value
-    var message = document.getElementById("message").value
-
-    window.open('mailto:support@tracefacil.com?subject=' + subject + '&body=' + message + ' ' + name + ' - ' + email);
-}
-
-document.getElementById("sendEmail").onclick = function () {
-    action.sendFormMail()
-};
