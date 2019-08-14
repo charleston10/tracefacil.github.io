@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.engcad",
+    "sha256_cert_fingerprints":
+    ["2D:0F:BC:9E:E0:57:62:47:37:81:62:31:17:3D:CB:50:8D:3F:A1:83:57:82:07:BD:C0:AB:B7:A5:B5:A6:EC:39"]
+  }
+}]
