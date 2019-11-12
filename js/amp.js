@@ -104,5 +104,8 @@ var actionFAQ = {
     },
     moreStrokes: function () {
         amplitude.getInstance().logEvent('action_faq_more_strokes');
+    },
+    changeDevice: function () {
+        amplitude.getInstance().logEvent('action_faq_change_device');
     }
 }
